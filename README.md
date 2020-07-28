@@ -1,6 +1,6 @@
 ## Narcissistic K-attribute Stable Matching
 
-This new application of the NNC algorithm deals with a variant of the StableMatching problem, in more restricted settings, that is based on 3 models:
+This new application of the Nearest Neighbors Chain (NNC) algorithm deals with a variant of the StableMatching problem, in more restricted settings, that is based on 3 models:
 - the k-attribute model
 - the Narcissistic Stable Matching, and
 - the Symmetric Stable Matching
